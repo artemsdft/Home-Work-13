@@ -17,6 +17,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         return tableView
     }()
     
+    
+    
     private var indentifire = "cell"
     private var secondaryText = "Apple ID, ICloud, контент и покупки"
     
